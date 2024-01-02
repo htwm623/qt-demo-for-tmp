@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Checkerboard.qml</file>
+        <file>Colorpicker.qml</file>
+        <file>ColorSlider.qml</file>
+        <file>NumberBox.qml</file>
+        <file>Palette.qml</file>
+        <file>Palettes.qml</file>
+        <file>PanelBorder.qml</file>
+        <file>SBPicker.qml</file>
+    </qresource>
+</RCC>
